@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="module_code">Module Code:</string>
+    <string name="module_name">Module Name:</string>
+    <string name="AY">Academic Year:</string>
+    <string name="sem">Semester:</string>
+    <string name="credit">Module Credit:</string>
+    <string name="ven">Venue:</string>
+</resources>
